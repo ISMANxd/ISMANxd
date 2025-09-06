@@ -6,7 +6,7 @@
 Minecraft sunucularını sıfırdan kurar, optimize eder ve geliştiririm.
 Sadece sunucu değil, bir deneyim inşa ederim.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Bana Ulaş:</h3>
 <p align="left">
 <a href="https://dev.to/ismanxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ismanxd" height="30" width="40" /></a>
 <a href="https://instagram.com/mrt_hsyn08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrt_hsyn08" height="30" width="40" /></a>
