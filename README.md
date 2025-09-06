@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba ismanxd</h1>
+<h1 align="center"></h1>
 <h3 align="center">I'm Mert. I build Minecraft servers and I'm also a developer.</h3>
 
 
