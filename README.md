@@ -1,7 +1,10 @@
 <h1 align="center">Merhaba ismanxd</h1>
 <h3 align="center">I'm Mert. I build Minecraft servers and I'm also a developer.</h3>
 
-- Selam **ZYRONMC**
+
+- Ben Mert — 18 yaşındayım, geliştiriciyim ve kurucuyum.
+Minecraft sunucularını sıfırdan kurar, optimize eder ve geliştiririm.
+Sadece sunucu değil, bir deneyim inşa ederim.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
